@@ -121,6 +121,8 @@ How to set and get property values of a view from your code.
 
 ### V3
 
+How to pass information to a second fragment.
+
 ### V4
 
 ### V5
